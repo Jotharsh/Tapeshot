@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <!-- A sheet of paper seen at an angle, its four corners marked, and a measuring line across it. -->
+  <rect width="1024" height="1024" rx="228" fill="#0b0c0e"/>
+  <path d="M286 300 L748 262 L838 722 L196 774 Z" fill="#f4f1ea" fill-opacity="0.07" stroke="#f4f1ea" stroke-width="34" stroke-linejoin="round"/>
+  <g stroke="#ffd23f" stroke-width="30" stroke-linecap="round">
+    <path d="M348 548 L690 520"/>
+    <path d="M342 490 L354 606"/>
+    <path d="M686 462 L698 578"/>
+  </g>
+  <g fill="#ffd23f" stroke="#0b0c0e" stroke-width="16">
+    <circle cx="286" cy="300" r="52"/><circle cx="748" cy="262" r="52"/><circle cx="838" cy="722" r="52"/><circle cx="196" cy="774" r="52"/>
+  </g>
+</svg>

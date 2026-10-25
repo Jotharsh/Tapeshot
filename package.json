@@ -1,0 +1,9 @@
+{
+  "name": "tapeshot",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Measure anything from a photo, using a sheet of paper or a card as the ruler. Works offline.",
+  "scripts": { "test": "node --test test/" },
+  "license": "MIT"
+}
